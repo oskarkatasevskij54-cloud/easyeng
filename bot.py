@@ -6,7 +6,7 @@ import telebot
 from telebot import types
 
 # ====== НАСТРОЙКИ ======
-TOKEN = os.getenv("TOKEN")  # токен берётся из Railway Variables
+TOKEN = 8810166498:AAGJOQfxRHeDObU6YtSsjFBw64rTduISOUQ
 WORDS_TO_LEARN = 2
 DB_FILE = "bot.db"
 
